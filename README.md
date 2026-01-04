@@ -2,7 +2,7 @@
 
 **FormatConverter** is a simple graphical application built with **Python (PyQt)** that allows users to convert image files between various data formats.  
 It was designed to simplify format and resolution transformation without the need for external tools or command-line usage.
-
+To be honest, I use it myself from time to time, and I think it’s a very good indicator.
 <img width="1617" height="833" alt="4" src="https://github.com/user-attachments/assets/cc468a62-1e99-4e41-a885-f848a8eaf2ff" />
 
 
